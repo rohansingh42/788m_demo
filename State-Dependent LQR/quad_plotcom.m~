@@ -1,0 +1,18 @@
+function quad_plotcom(t,y,params)
+
+k = 0;
+vq = y;
+[m n] = size(vq)
+
+gt = interp
+
+figure(2)
+plot3(vq(:,1),vq(:,2),vq(:,3),'o');
+hold on;
+plot3([0,0,0.5],[0,0,1],'-')
+grid on;
+axis([-2 2 -2 2 0 2]);
+axis on;
+drawnow
+
+end

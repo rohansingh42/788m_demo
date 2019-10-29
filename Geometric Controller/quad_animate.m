@@ -2,7 +2,7 @@ function quad_animate(t,y,params)
 
 k = 0;
 
-vq = interp1(t,y,[0:0.05:4]')
+vq = interp1(t,y,[0:0.05:10]')
 [m n] = size(vq)
 
 for i = 1 : m
