@@ -1,4 +1,4 @@
-# CMSC 788M Demo files for Lec 12
+# Demo files for my lecture for course CMSC 788M Lec 12
 Contains MATLAB code for simulation of control algorithms from follwing papers
 
 - Foehn, P. and Scaramuzza, D., 2018, May. Onboard state dependent lqr for agile quadrotors. In 2018 IEEE International Conference on Robotics and Automation (ICRA) (pp. 6566-6572). IEEE.
